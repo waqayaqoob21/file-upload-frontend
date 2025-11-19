@@ -18,7 +18,7 @@ Verify installation:
     git --version
 
 
-2. Install Node.js (Required to run React)
+🟦 2. Install Node.js (Required to run React)
 
 Open https://nodejs.org
 
@@ -30,7 +30,7 @@ Verify installation:
     node -v
     npm -v
 
-3. Clone the React Project (Your Friend Must Do This)
+🟦 3. Clone the React Project (Your Friend Must Do This)
 
 Open PowerShell or Command Prompt and run:
     git clone https://github.com/waqayaqoob21/file-upload-frontend.git
@@ -40,7 +40,7 @@ Move into the folder:
     cd file-upload-frontend
 
 
-4. Install All Required Packages
+🟦 4. Install All Required Packages
 
 Inside the project folder:
     
@@ -56,7 +56,7 @@ This installs:
 
     All dependencies needed to run the app
 
-5. Run the Project (Start React Server)
+🟦 5. Run the Project (Start React Server)
     npm run dev
 
 You will see:
