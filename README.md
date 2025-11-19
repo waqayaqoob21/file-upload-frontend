@@ -1,6 +1,6 @@
 # File Upload Frontend
 
-🚀 Complete Installation Guide (For You & Your Friend)
+🚀 Complete Installation Guide
 
 Follow these steps to set up and run the project from zero on any Windows machine.
 
