@@ -1,9 +1,70 @@
 # File Upload Frontend
 
-A simple **React + Vite** single-page application that allows users to upload **PDFs and images** (PNG, JPG, GIF, WebP, etc.) and send them to a **Django backend**.  
-The backend can then perform operations such as **OCR (optical character recognition)** or any other processing you implement.
+🚀 Complete Installation Guide (For You & Your Friend)
 
----
+Follow these steps to set up and run the project from zero on any Windows machine.
+
+🟦 1. Install Git (Required)
+
+If Git is not installed:
+
+Go to: https://git-scm.com/downloads
+
+Download Windows Installer
+
+Install it with default settings
+
+Verify installation:
+    git --version
+
+
+2. Install Node.js (Required to run React)
+
+Open https://nodejs.org
+
+Download the LTS version
+
+Install with default settings
+
+Verify installation:
+    node -v
+    npm -v
+
+3. Clone the React Project (Your Friend Must Do This)
+
+Open PowerShell or Command Prompt and run:
+    git clone https://github.com/waqayaqoob21/file-upload-frontend.git
+
+
+Move into the folder:
+    cd file-upload-frontend
+
+
+4. Install All Required Packages
+
+Inside the project folder:
+    
+    npm install
+
+This installs:
+
+    React
+
+    Vite
+
+    Axios
+
+    All dependencies needed to run the app
+
+5. Run the Project (Start React Server)
+    npm run dev
+
+You will see:
+    Local: http://localhost:5173/
+
+Open that URL in your browser — the React app will load.
+
+
 
 ## ✨ Features
 
